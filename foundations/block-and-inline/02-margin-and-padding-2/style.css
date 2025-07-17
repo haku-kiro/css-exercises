@@ -11,6 +11,11 @@ body {
   padding: 8px;
 }
 
+/* Only difference from the solution is that I tried to add  */
+/* the margin to all, and used margin-top instead of adding margin-bottom to  */
+/* .content, .title */
+/* As such, my solution isn't correct, remove this selector and add margin-bottom to the  */
+/* correct classes. */
 .card div {
   margin-top: 8px;
 }
